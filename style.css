@@ -1,0 +1,36 @@
+.navbar{
+    background-color:rgb(202, 196, 196);
+    height:22vh;
+    padding-top:10px;
+    color:white;
+    margin-top: 30px;
+
+}
+.introContainer{
+    border:solid black;
+    border-width:.2px;
+    margin-top: 25px;
+    height: 600px;
+}
+.nameBox{
+    border:solid black;
+   height:150px;
+   width:80%;
+   margin: left 3px;
+   margin-top:30px;
+}
+
+.innerBox{
+    border:solid grey;
+    height:120px;
+    width:90%;
+    margin-left:4%;
+    margin: top 30px;
+    font-size: larger;
+}
+.selfie{
+    height: 100px;
+    width: 100px;
+    padding-right: 55px;
+
+}

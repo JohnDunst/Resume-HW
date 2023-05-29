@@ -50,3 +50,24 @@
     width: 50%;    
     border: solid yellow;
 }
+
+.contact{
+    border: solid brown;
+    height: 33%;
+}
+.skills{
+    border: solid purple;
+    height: 33%;
+
+}
+
+.Education{
+    border: solid salmon;
+    height:33%;
+
+}
+.profile{
+    border: solid darkcyan;
+    height: 200px;
+    word-wrap: break-word;
+}

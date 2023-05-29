@@ -6,11 +6,16 @@
     margin-top: 30px;
 
 }
-.introContainer{
+.flex-Container{
     border:solid black;
     border-width:.2px;
     margin-top: 25px;
-    height: 600px;
+    height: 900px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+
+
 }
 .nameBox{
     border:solid black;
@@ -33,4 +38,15 @@
     width: 100px;
     padding-right: 55px;
 
+}
+
+.flex-Container .left_container{
+    background: white;
+    border: solid red;
+    width: 50%;
+}
+.flex-Container .right_container{
+    background: white;
+    width: 50%;    
+    border: solid yellow;
 }
